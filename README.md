@@ -5,7 +5,7 @@
 Project consists of creating an enviorment in Microsoft Azure for practical experience with Microsoft Sentinel.
 <br />
 
-<h2>What I have Learned:</h2>
+<h2>What I have Learned</h2>
 
 
 <h2>Languages and Utilities Used</h2>
@@ -17,6 +17,8 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 - <b>Microsoft Azure</b> (21H2)
 
 <h2>Walk-through:</h2>
+
+<h2>Resources Used</h2>
 
 
 
