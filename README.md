@@ -10,7 +10,7 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Microsoft Sentinel</b
+- <b>Microsoft Sentinel</b>
 
 <h2>Environments Used </h2>
 
