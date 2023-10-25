@@ -9,6 +9,7 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 
 - Navigating through the Microsoft Azure Portal
 - Creating a Workspace for Microsoft Sentinel in Azure
+- Assigning the Microsoft Sentinel Training Lab Solution from Azure Marketplace to the Created Microsoft Sentinel Workspace 
 
 <h2>Languages and Utilities Used</h2>
 
@@ -34,7 +35,10 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 
 <h3>Deploying Microsoft Sentinel Training Lab Solution</h3>
 
--
+- Searched for the Microsfot Sentinel Training Lab Solution in the Azure Portal from Marketplace
+- According overview for the Training Lab Solution, Upon deployment it will add pre-recorded data into a Microsoft Sentinel Workspace and allows simulated scenarios that showcases Microsoft Sentinel features
+- Just like creating the Microsoft Sentinel Workspace, A subscription and a resource group will be needed. An added requirement is assigning a Microsoft Sentinel Workspace to the Training Lab Solution (I used my newly created Workspace)
+- Wait for deployment to finish after validation.
 
 <h2>Resources Used</h2>
 
