@@ -21,7 +21,7 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 
 - <b>Microsoft Azure</b>
 
-<h2>Prequesits</h2>
+<h2>Prerequisite</h2>
 
 - <b>An existing Microsoft Azure Subscription (The Azure Free Trial is enough for this project)</b>
 
