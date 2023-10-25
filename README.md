@@ -34,7 +34,7 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 - Ensure Validation passed and waiting for Deployment to finish
 - Added the newly created workspace into Microsoft Sentinel and is ready for use.
 
-<h3>Deploying Microsoft Sentinel Training Lab Solution</h3>
+<h4>Deploying Microsoft Sentinel Training Lab Solution</h4>
 
 - Searched for the Microsfot Sentinel Training Lab Solution in the Azure Portal from Marketplace
 - According overview for the Training Lab Solution, Upon deployment it will add pre-recorded data into a Microsoft Sentinel Workspace and allows simulated scenarios that showcases Microsoft Sentinel features
@@ -48,10 +48,12 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 - When clicking on the API Connection, I clicked on <b>Edit API connection</b> under <b>General</b> and authorized the API connection.
 - API Connection authorized.
 
+<h3>Installing and Enable Data Connectors</h3>
+
 <h2>Resources Used</h2>
 
 - <b><a href='https://github.com/Azure/Azure-Sentinel/blob/master/Solutions/Training/Azure-Sentinel-Training-Lab/Modules/Module-1-Setting-up-the-environment.md'>Azure Sentinel Training Lab Module 1 - TristankMS</a></b>
-
+- <b><a href='https://github.com/Azure/Azure-Sentinel/blob/master/Solutions/Training/Azure-Sentinel-Training-Lab/Modules/Module-2-Data-Connectors.md'>Azure Sentinel Training Lab Module 2 - TristankMS</a></b>
 
 <!--
  ```diff
