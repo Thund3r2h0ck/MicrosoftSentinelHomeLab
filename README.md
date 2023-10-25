@@ -7,7 +7,6 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 
 <h2>What I have Learned</h2>
 
-
 <h2>Languages and Utilities Used</h2>
 
 - <b>Microsoft Sentinel</b>
@@ -16,10 +15,15 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 
 - <b>Microsoft Azure</b>
 
+<h2>Prequesits</h2>
+
+- <b>An existing Microsoft Azure Subscription</b>
+
 <h2>Walk-through:</h2>
 
 <h2>Resources Used</h2>
 
+- <b><a href='https://github.com/Azure/Azure-Sentinel/blob/master/Solutions/Training/Azure-Sentinel-Training-Lab/Modules/Module-1-Setting-up-the-environment.md'>Azure Sentinel Training Lab Module 1 - TristankMS</a></b>
 
 
 <!--
