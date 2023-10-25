@@ -14,7 +14,7 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 
 <h2>Environments Used </h2>
 
-- <b>Microsoft Azure</b> (21H2)
+- <b>Microsoft Azure</b>
 
 <h2>Walk-through:</h2>
 
