@@ -1,4 +1,4 @@
-<h1>Creating a home lab for Microsoft Sentinel</h1>
+<h1>Creating a Home Lab for Microsoft Sentinel</h1>
 
 
 <h2>Description</h2>
