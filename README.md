@@ -63,9 +63,21 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 <img src='https://i.imgur.com/R5xDwny.png'>
 <img src='https://i.imgur.com/wZUwSAI.png'>
 
-- Click on save 
+- Clicked on save 
 
 <h3>Installing and Enable Data Connectors</h3>
+
+<h4>Connecting Azure Activity Data Connector</h4>
+
+- In Microsoft Sentinel, clicked on my Sentinel workspace to access the overview.
+<img src='https://i.imgur.com/QJra9w6.png'>
+
+- Clicked on <b>Content Hub</b> under <b>Content Management</b> to access the Data Connector.
+<img src='https://i.imgur.com/q8CXa4t.png'>
+
+- Searched for Azure Activity in the Content Hub search bar, click on Azure Activity and install.
+<img src='https://i.imgur.com/mJ033N0.png'>
+
 
 <h2>Resources Used</h2>
 
