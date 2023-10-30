@@ -29,8 +29,16 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 
 <h3>Creating a Sentinel Workspace</h3>
 
-- Within the Azure Portal, I had to create a new Microsoft Sentinel workspace. (Microsoft allow a 31 day free trial and what I will be using)
+- In Microsoft Azure, search for Microsoft Sentinel
+<img src='https://i.imgur.com/UPuQDKV.png'>
+  
+- Within the Azure Portal, I had to create a new Microsoft Sentinel instance and workspace. (Microsoft allow a 31 day free trial and what I will be using)
+<img src='https://i.imgur.com/nQcouxw.png'>
+<img src='https://i.imgur.com/z0r9pTT.png'>
+
 - Needed to assign a resource group with the subscription for the workspace (I had to create a new resource group)
+<img src='https://i.imgur.com/3SomKpt.png'>
+  
 - Ensure Validation passed and waiting for Deployment to finish
 - Added the newly created workspace into Microsoft Sentinel and is ready for use.
 
