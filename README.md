@@ -85,6 +85,18 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 - After clicking on <b>Open connector page</b> and <b>Launch Azure Policy Assignment wizard</b>, 
 <img src='https://i.imgur.com/fS2d77F.png'>
 
+- In the Azure Policy Assignment, add the scope (Azure Subscription and Resource Group)
+<img src='https://i.imgur.com/KuoveNR.png'>
+
+- Assigned the Sentinel Workspace as the <b>primary log analystics workspace</b> in the parameters tab.
+<img src='https://i.imgur.com/arIwi9b.png'>
+
+- Checkmarked the <b>Create a remediation task</b> (DINE feature of Azure Policy) to Deploy settings directly to Activity logs within scope.
+<img src='https://i.imgur.com/mY25ynB.png'>
+
+- Clicked on the <b>Review + create</b>
+<img src='https://i.imgur.com/oEDNTrf.png'>
+
 <h2>Resources Used</h2>
 
 - <b><a href='https://github.com/Azure/Azure-Sentinel/blob/master/Solutions/Training/Azure-Sentinel-Training-Lab/Modules/Module-1-Setting-up-the-environment.md'>Azure Sentinel Training Lab Module 1 - TristankMS</a></b>
