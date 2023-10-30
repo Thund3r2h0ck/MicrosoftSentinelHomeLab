@@ -11,6 +11,7 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 - Creating a Workspace for Microsoft Sentinel in Azure
 - Assigning the Microsoft Sentinel Training Lab Solution from Azure Marketplace to the Created Microsoft Sentinel Workspace
 - Authorizing an API Connector 
+- Adding Data Connectors through the Content Hub in Microsoft Sentinel
 
 <h2>Languages and Utilities Used</h2>
 
@@ -78,6 +79,11 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 - Searched for Azure Activity in the Content Hub search bar, click on Azure Activity and install.
 <img src='https://i.imgur.com/mJ033N0.png'>
 
+- In <b>Data connectors</b> under <b>configuration</b>, I can confirm that Azure Activity has been installed.
+<img src='https://i.imgur.com/gP1vRgX.png'>
+
+- After clicking on <b>Open connector page</b> and <b>Launch Azure Policy Assignment wizard</b>, 
+<img src='https://i.imgur.com/fS2d77F.png'>
 
 <h2>Resources Used</h2>
 
