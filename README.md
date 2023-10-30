@@ -45,16 +45,25 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 <h4>Deploying Microsoft Sentinel Training Lab Solution</h4>
 
 - Searched for the Microsfot Sentinel Training Lab Solution in the Azure Portal from Marketplace
-- According overview for the Training Lab Solution, Upon deployment it will add pre-recorded data into a Microsoft Sentinel Workspace and allows simulated scenarios that showcases Microsoft Sentinel features
-- Just like creating the Microsoft Sentinel Workspace, A subscription and a resource group will be needed. An added requirement is assigning a Microsoft Sentinel Workspace to the Training Lab Solution (I used my newly created Workspace)
-- Wait for deployment to finish after validation.
-- Microsoft Sentinel Training Lab deployed
+<img src='https://i.imgur.com/ggnfwBV.png'>
+
+- According overview for the Training Lab Solution, Upon deployment it will add pre-recorded data into a Microsoft Sentinel Workspace and allows simulated scenarios that showcases Microsoft Sentinel features.
+- Just like creating the Microsoft Sentinel instance, clicked on create and fill in the required Subscription, Resource, and Workspace.
+<img src='https://i.imgur.com/PNOBX3p.png'>
+<img src='https://i.imgur.com/kN2CA06.png'>
+
+- Clicked on <b>Review + create</b> for validation, and wait for deployment to be completed.
 
 <h3>Attaching an API Connector</h3>
 
-- In the Resource Group I have created, a API connection was deployed from the Training Lab Solution.
-- When clicking on the API Connection, I clicked on <b>Edit API connection</b> under <b>General</b> and authorized the API connection.
-- API Connection authorized.
+- In the Resource Group I have created, an API connection was deployed from the Training Lab Solution.
+<img src='https://i.imgur.com/V7BGzxh.png'>
+
+- When clicking on the API Connection, clicked on <b>Edit API connection</b> under <b>General</b> and clicked authorized the API connection.
+<img src='https://i.imgur.com/R5xDwny.png'>
+<img src='https://i.imgur.com/wZUwSAI.png'>
+
+- Click on save 
 
 <h3>Installing and Enable Data Connectors</h3>
 
