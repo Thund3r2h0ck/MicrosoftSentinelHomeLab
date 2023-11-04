@@ -57,7 +57,7 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 
 <h3>Attaching an API Connector</h3>
 
-- In the Resource Group I have created, an API connection was deployed from the Training Lab Solution.
+- In the Resource Group that was created, an API connection was deployed from the Training Lab Solution.
 <img src='https://i.imgur.com/V7BGzxh.png'>
 
 - When clicking on the API Connection, clicked on <b>Edit API connection</b> under <b>General</b> and clicked authorized the API connection.
@@ -70,7 +70,7 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 
 <h4>Connecting Azure Activity Data Connector</h4>
 
-- In Microsoft Sentinel, clicked on my Sentinel workspace to access the overview.
+- In Microsoft Sentinel, clicked on the Sentinel workspace to access the overview.
 <img src='https://i.imgur.com/QJra9w6.png'>
 
 - Clicked on <b>Content Hub</b> under <b>Content Management</b> to access the Data Connector.
@@ -79,7 +79,7 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 - Searched for Azure Activity in the Content Hub search bar, click on Azure Activity and install.
 <img src='https://i.imgur.com/mJ033N0.png'>
 
-- In <b>Data connectors</b> under <b>configuration</b>, I can confirm that Azure Activity has been installed.
+- In <b>Data connectors</b> under <b>configuration</b>, can confirm that Azure Activity has been installed.
 <img src='https://i.imgur.com/gP1vRgX.png'>
 
 - After clicking on <b>Open connector page</b> and <b>Launch Azure Policy Assignment wizard</b>, 
@@ -96,6 +96,15 @@ Project consists of creating an enviorment in Microsoft Azure for practical expe
 
 - Clicked on the <b>Review + create</b>
 <img src='https://i.imgur.com/oEDNTrf.png'>
+
+<h4>Connecting Microsoft Defender for Cloud data connector</h4>
+
+- Installing Microsoft Defender for Cloud have similar steps as to connect the Azure Activity Data Connector.
+- After deployment is finished, go into <b>Data Connectors</b> under <b>Configuration</b> and click on <b>Open connector page</b> with <b>Microsoft Defender for Cloud</b> selected.
+<img src='https://i.imgur.com/xBWNidK.png'>
+
+- Select the design subscription(s) and click on connect
+<img src='https://i.imgur.com/Mygawj9.png'>
 
 <h2>Resources Used</h2>
 
